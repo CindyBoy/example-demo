@@ -1,0 +1,19 @@
+{
+  "name": "imgtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gm": "^1.23.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "request": "^2.88.0",
+    "seq-queue": "0.0.5"
+  }
+}
