@@ -12,7 +12,7 @@
     "gm": "^1.23.1"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "request": "^2.88.0",
     "seq-queue": "0.0.5"
   }
